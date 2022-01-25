@@ -1,0 +1,30 @@
+﻿  Board.cpp
+C:\Users\ju\source\repos\Tetris\Tetris\GameStart.h(28,15): error C3646: 'screen': 알 수 없는 재정의 지정자입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\GameStart.h(28,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(8,2): error C2059: 구문 오류: 'private'
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(10,7): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '식'입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(10,7): error C2146: 구문 오류: ';'이(가) 'StartX' 식별자 앞에 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C2143: 구문 오류: ']'이(가) ';' 앞에 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C2087: 'BoardArray': 첨자가 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  GameStart.cpp
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(8,2): error C2059: 구문 오류: 'private'
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(10,7): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '식'입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(10,7): error C2146: 구문 오류: ';'이(가) 'StartX' 식별자 앞에 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,14): error C2065: 'BW': 선언되지 않은 식별자입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C2143: 구문 오류: ']'이(가) ';' 앞에 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C2087: 'BoardArray': 첨자가 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  Tetris.cpp
+  TetrisAction.cpp
+C:\Users\ju\source\repos\Tetris\Tetris\GameStart.h(28,15): error C3646: 'screen': 알 수 없는 재정의 지정자입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\GameStart.h(28,15): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\GameStart.h(29,18): error C3646: 'TA': 알 수 없는 재정의 지정자입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\GameStart.h(29,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(8,2): error C2059: 구문 오류: 'private'
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(10,7): error C2760: 구문 오류: '식별자'을(는) 예기치 않은 토큰입니다. 필요한 토큰은 '식'입니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(10,7): error C2146: 구문 오류: ';'이(가) 'StartX' 식별자 앞에 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C2143: 구문 오류: ']'이(가) ';' 앞에 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C2087: 'BoardArray': 첨자가 없습니다.
+C:\Users\ju\source\repos\Tetris\Tetris\Board.h(11,18): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+  코드를 생성하고 있습니다...
